@@ -1,4 +1,4 @@
-# ⚡️ Lightning Research Poster Template 🔬
+# ⚡️ Satellighte Lightning App 🛰
 
 Use this app to share your research paper results. This app lets you connect a blogpost, arxiv paper, and a jupyter
 notebook and even have an interactive demo for people to play with the model. This app also allows industry
