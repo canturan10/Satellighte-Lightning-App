@@ -14,7 +14,7 @@ manually install the app as mentioned below.
 
 #### With Lightning CLI
 
-`lightning install app lightning/research_poster`
+`lightning install app lightning/satellighte`
 
 #### Use GitHub template
 
